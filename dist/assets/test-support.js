@@ -6395,9 +6395,9 @@ module.exports = (function() {
 
 })();
 
-},{"fs":"/home/julio/Desktop/Repositories/trainee/traineetraining/node_modules/browserify/lib/_empty.js"}],"/home/julio/Desktop/Repositories/trainee/traineetraining/tmp/core_object-input_staging-Z88gkHwc.tmp/browserify_stubs.js":[function(require,module,exports){
+},{"fs":"/home/julio/Desktop/Repositories/trainee/traineetraining/node_modules/browserify/lib/_empty.js"}],"/home/julio/Desktop/Repositories/trainee/traineetraining/tmp/core_object-input_staging-8t2eU0jA.tmp/browserify_stubs.js":[function(require,module,exports){
 define('npm:yadda', function(){ return { 'default': require('yadda')};})
-},{"yadda":"/home/julio/Desktop/Repositories/trainee/traineetraining/node_modules/yadda/lib/index.js"}]},{},["/home/julio/Desktop/Repositories/trainee/traineetraining/tmp/core_object-input_staging-Z88gkHwc.tmp/browserify_stubs.js"]);
+},{"yadda":"/home/julio/Desktop/Repositories/trainee/traineetraining/node_modules/yadda/lib/index.js"}]},{},["/home/julio/Desktop/Repositories/trainee/traineetraining/tmp/core_object-input_staging-8t2eU0jA.tmp/browserify_stubs.js"]);
 
 /*!
  * QUnit 2.1.0

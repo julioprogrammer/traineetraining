@@ -15,6 +15,9 @@ Router.map(function() {
   this.route('soapui');
   this.route('nativescript');
   this.route('yadda');
+  this.route('instalacao');
+  this.route('livros');
+  this.route('comandos');
 });
 
 export default Router;

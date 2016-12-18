@@ -1,7 +1,7 @@
-Feature: features project
+Feature: enter in emberjs
 
-  Scenario: the one where I type ember g feature
+  Scenario: feature to enter in screen emberjs training
 
-    Given I type "Ember g feature make-feature"
-    When I look in the folder
-    Then I should find a file
+    Given I am in screen home
+    When I visualize emberjs button training and click
+    Then I enter in screen training emberjs
